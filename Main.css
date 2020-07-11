@@ -1,0 +1,13 @@
+#container { 
+    
+    padding: 1%;
+    width: 900px;
+    align-content: center;
+    background-color: rgb(192, 58, 58);
+    align-items: center;
+}
+
+.con1 {
+float: left;
+padding: 1%;
+}
